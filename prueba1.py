@@ -1,4 +1,4 @@
 
 import numpy as np
 
-print("hedddddddddddddllow")
+print("por fa alguien saque de aqui")
